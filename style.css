@@ -1,0 +1,28 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+body {
+  position: relative;
+}
+
+.accepted {
+  display: none;
+}
+
+.plane {
+  z-index: 10;
+  position: absolute;
+  top: 60%;
+  left: 0;
+  font-size: 50px;
+  transform: translateX(-5rem);
+  transition: transform 6s;
+}
+
+.fly {
+  z-index: 100;
+  /* background-color: black; */
+  transform: translateX(90rem);
+}
