@@ -14,7 +14,10 @@ function closeModal(){
 
 function openModal(){
   const modalBox = document.querySelector('.modalbox')
+  const plane = document.querySelector('.plane')
   modalBox.classList.remove('accepted')
+  plane.classList.remove('fly')
+ 
 }
 
 function acceptedModal(){
