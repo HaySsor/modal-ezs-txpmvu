@@ -18,3 +18,6 @@ Twoje zadania:
 
 Punkty bonusowe:
 1. Zamykaj modal, gdy użytkownik kliknie w szare tło oraz przyciski: Poddaje się/Lecimy!
+
+
+live https://stackblitz.com/edit/modal-ezs-txpmvu?file=index.js
